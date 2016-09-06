@@ -1,0 +1,3 @@
+Developed with less constraint on distance to food and single obstacles all over the board.
+popsize=1000
+maxgen=100
